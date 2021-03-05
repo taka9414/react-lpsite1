@@ -32,6 +32,7 @@ export const App = () => {
       >
         テストボタン
       </AlertButton>
+      <footer class="text-center pt-3 border-top">&copy; 2020 TEST Inc.</footer>
     </>
   );
 };
